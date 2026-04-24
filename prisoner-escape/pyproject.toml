@@ -1,0 +1,10 @@
+[project]
+name = "prisoner-escape"
+version = "0.1.0"
+description = "MVP simulation of the Prisoner Escape Dilemma Game"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "networkx>=3.2",
+    "matplotlib>=3.8",
+]
